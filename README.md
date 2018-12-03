@@ -1,3 +1,2 @@
 # bind.docker
 bind
-aaaaaaaa
